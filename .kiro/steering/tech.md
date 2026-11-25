@@ -1,7 +1,7 @@
 # Tech stack and commands
 
 - TypeScript (strict), HTML5 Canvas 2D, Vite. No game framework, no runtime dependencies.
-- No image or audio assets yet. Sprites are drawn with canvas shapes in `src/renderer.ts`.
+- No image or audio assets yet. Sprites (pumpkins, candy bags, ghosts, digger) are drawn with canvas shapes in `src/renderer.ts`.
 - Node 18+ (developed on Node 22).
 
 Commands:

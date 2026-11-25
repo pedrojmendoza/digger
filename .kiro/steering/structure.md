@@ -2,7 +2,7 @@
 
 - `src/config.ts`: tile size, speeds (cells per second), timings (seconds), scores.
 - `src/levels.ts`: level definitions. Maps are 15 columns x 10 rows of text.
-  Legend: `#` dirt, `.` tunnel, `E` emerald, `B` gold bag, `P` player start, `S` enemy spawn.
+  Legend: `#` dirt, `.` tunnel, `E` pumpkin (emerald), `B` candy bag, `P` player start, `S` enemy spawn.
   Each level also sets enemy count, max alive, spawn timing and speed.
 - `src/world.ts`: grid state (dug cells, emeralds, bags, gold piles). Parses level maps.
 - `src/entities/`: `GridMover` (cell-to-cell movement base), `Player`, `Enemy`, `Bag`, `Fireball`.

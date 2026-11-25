@@ -1,6 +1,6 @@
-# Digger
+# Digger (Halloween edition)
 
-A classic-style Digger prototype. TypeScript, HTML5 Canvas, Vite, no game framework.
+A classic-style Digger prototype with a Halloween skin: dig through dark soil, collect pumpkins, drop candy bags on ghosts. TypeScript, HTML5 Canvas, Vite, no game framework.
 
 ## Run
 
@@ -17,11 +17,11 @@ A classic-style Digger prototype. TypeScript, HTML5 Canvas, Vite, no game framew
 
 ## Rules in this prototype
 
-- Emeralds are 25 points. Eight in a row without a gap give a 250 bonus.
-- Push gold bags sideways into open tunnel. Dig out from under one and it falls.
-- A bag that falls 2 or more cells breaks into gold (500 points). Bags crush enemies (250) and you.
-- Nobbins spawn from `S`, stay in tunnels, and chase you by shortest path.
-- Clear all emeralds or all enemies to finish the level. Levels cycle and enemies speed up 10% per cycle.
+- Pumpkins (the original emeralds) are 25 points. Eight in a row without a gap give a 250 bonus.
+- Push candy bags sideways into open tunnel. Dig out from under one and it falls.
+- A bag that falls 2 or more cells spills its candy (500 points). Bags crush ghosts (250) and you.
+- Ghosts spawn from `S`, stay in tunnels, and chase you by shortest path.
+- Collect all pumpkins or get rid of all ghosts to finish the level. Levels cycle and enemies speed up 10% per cycle.
 
 ## Layout
 
@@ -35,4 +35,4 @@ A classic-style Digger prototype. TypeScript, HTML5 Canvas, Vite, no game framew
 
 ## Not yet built
 
-Hobbins (enemies that dig), bonus cherry, sound, high scores, more levels, touch controls.
+Ghosts that dig through dirt (the original Hobbins), bonus item, sound, high scores, more levels, touch controls.
