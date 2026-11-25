@@ -271,7 +271,7 @@ export class Renderer {
     let sub = '';
     switch (game.state) {
       case 'title':
-        title = 'DIGGER';
+        title = 'CANDY DIGGER';
         sub = 'Press ENTER to start';
         break;
       case 'levelClear':

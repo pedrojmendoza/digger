@@ -1,6 +1,6 @@
-# Digger (Halloween edition)
+# Candy Digger
 
-A classic-style Digger prototype with a Halloween skin: dig through dark soil, collect pumpkins, drop candy bags on ghosts. TypeScript, HTML5 Canvas, Vite, no game framework.
+A Halloween-themed, arcade-style digging game: dig through dark soil, collect pumpkins, drop candy bags on ghosts. TypeScript, HTML5 Canvas, Vite, no game framework.
 
 ## Run
 
@@ -36,3 +36,13 @@ A classic-style Digger prototype with a Halloween skin: dig through dark soil, c
 ## Not yet built
 
 Ghosts that dig through dirt (the original Hobbins), bonus item, sound, high scores, more levels, touch controls.
+
+## Disclaimer
+
+Candy Digger is an independent, fan-made homage to the 1983 arcade game Digger by Windmill
+Software. It is not affiliated with or endorsed by Windmill Software or any rights holder of
+the original game. It contains no code, graphics, sound or level data from the original or
+from any remake. All code and artwork in this repository are original and released under the
+MIT license (see `LICENSE`).
+
+The repository is still named `digger` on GitHub.

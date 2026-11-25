@@ -1,6 +1,11 @@
-# Digger: product overview
+# Candy Digger: product overview
 
-A browser remake of the 1983 arcade game Digger with a Halloween theme. The player tunnels
+The game is called Candy Digger (the GitHub repo is still named `digger`). It is a browser
+homage to the 1983 arcade game Digger with a Halloween theme.
+
+Legal: keep all code and art original. Do not import code, graphics, sound or levels from the
+original game or from remakes (Digger Remastered is GPL). Keep the README disclaimer.
+ The player tunnels
 through dark soil, collects pumpkins, pushes and drops candy bags, and avoids or kills ghosts.
 
 Theme mapping: code names stay as in the original game. Emerald = pumpkin, Bag = candy bag,
